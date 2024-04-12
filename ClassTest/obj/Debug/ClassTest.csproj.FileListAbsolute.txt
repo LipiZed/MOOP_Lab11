@@ -1,2 +1,0 @@
-C:\Users\263\source\repos\MOOP_Lab11\ClassTest\obj\Debug\ClassTest.csproj.AssemblyReference.cache
-C:\Users\263\source\repos\MOOP_Lab11\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache

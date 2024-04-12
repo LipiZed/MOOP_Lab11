@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOOP_Lab11", "MOOP_Lab11\MOOP_Lab11.csproj", "{9043EF56-81EB-453E-84B6-278261B2BB33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTest", "ClassTest\ClassTest.csproj", "{5845786F-2B8D-4918-86FF-EE5F6C90FB06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11_Tests", "Lab11_Tests\Lab11_Tests.csproj", "{BB7361EF-3218-4FFB-A139-4AA751958DAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9043EF56-81EB-453E-84B6-278261B2BB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9043EF56-81EB-453E-84B6-278261B2BB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9043EF56-81EB-453E-84B6-278261B2BB33}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5845786F-2B8D-4918-86FF-EE5F6C90FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5845786F-2B8D-4918-86FF-EE5F6C90FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5845786F-2B8D-4918-86FF-EE5F6C90FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5845786F-2B8D-4918-86FF-EE5F6C90FB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7361EF-3218-4FFB-A139-4AA751958DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7361EF-3218-4FFB-A139-4AA751958DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7361EF-3218-4FFB-A139-4AA751958DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7361EF-3218-4FFB-A139-4AA751958DAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

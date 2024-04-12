@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\projects\\C#\\MOOP_Lab11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15E55C4C-F82A-4BAC-887A-0D144EC1ECA7}|MOOP_Lab11\\MOOP_Lab11.csproj|c:\\projects\\c#\\moop_lab11\\moop_lab11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15E55C4C-F82A-4BAC-887A-0D144EC1ECA7}|MOOP_Lab11\\MOOP_Lab11.csproj|solutionrelative:moop_lab11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BB7361EF-3218-4FFB-A139-4AA751958DAC}|Lab11_Tests\\Lab11_Tests.csproj|c:\\projects\\c#\\moop_lab11\\lab11_tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7361EF-3218-4FFB-A139-4AA751958DAC}|Lab11_Tests\\Lab11_Tests.csproj|solutionrelative:lab11_tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9043EF56-81EB-453E-84B6-278261B2BB33}|MOOP_Lab11\\MOOP_Lab11.csproj|c:\\projects\\c#\\moop_lab11\\moop_lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9043EF56-81EB-453E-84B6-278261B2BB33}|MOOP_Lab11\\MOOP_Lab11.csproj|solutionrelative:moop_lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9043EF56-81EB-453E-84B6-278261B2BB33}|MOOP_Lab11\\MOOP_Lab11.csproj|c:\\projects\\c#\\moop_lab11\\moop_lab11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9043EF56-81EB-453E-84B6-278261B2BB33}|MOOP_Lab11\\MOOP_Lab11.csproj|solutionrelative:moop_lab11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\C#\\MOOP_Lab11\\Lab11_Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "Lab11_Tests\\Class1.cs",
+              "ToolTip": "C:\\projects\\C#\\MOOP_Lab11\\Lab11_Tests\\Class1.cs",
+              "RelativeToolTip": "Lab11_Tests\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:43:14.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\C#\\MOOP_Lab11\\MOOP_Lab11\\Program.cs",
+              "RelativeDocumentMoniker": "MOOP_Lab11\\Program.cs",
+              "ToolTip": "C:\\projects\\C#\\MOOP_Lab11\\MOOP_Lab11\\Program.cs",
+              "RelativeToolTip": "MOOP_Lab11\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAywBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:40:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\projects\\C#\\MOOP_Lab11\\MOOP_Lab11\\Form1.cs",
               "RelativeDocumentMoniker": "MOOP_Lab11\\Form1.cs",
